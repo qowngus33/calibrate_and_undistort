@@ -12,7 +12,7 @@
 
 
 #### Distortion Correction Result
-* Original
-<img width="1072" alt="Screenshot 2024-03-27 at 9 37 08 AM" src="https://github.com/qowngus33/calibrate_and_undistort/assets/83813866/b1acaa0d-e4f8-42b5-b089-7bfac8d55084">
 * Retified
+<img width="1072" alt="Screenshot 2024-03-27 at 9 37 08 AM" src="https://github.com/qowngus33/calibrate_and_undistort/assets/83813866/b1acaa0d-e4f8-42b5-b089-7bfac8d55084">
+* Original
 <img width="1072" alt="Screenshot 2024-03-27 at 9 37 18 AM" src="https://github.com/qowngus33/calibrate_and_undistort/assets/83813866/eb6eddfe-a32d-42d9-90e3-4bf293071554">
